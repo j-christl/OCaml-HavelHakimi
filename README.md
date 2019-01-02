@@ -1,5 +1,5 @@
 # OCaml-HavelHakimi
-Functional implementation of the Havel-Hakimi algorithm in OCaml
+Functional implementation of the Havel-Hakimi algorithm (https://en.wikipedia.org/wiki/Havel%E2%80%93Hakimi_algorithm) in OCaml
 
 ```ocaml
 val havel_hakimi : int list -> bool = <fun>
